@@ -1,0 +1,69 @@
+---
+---
+@import "{{ site.theme }}";
+$color_main: #FCD6B5;
+$color_text: #57585A;
+$action_color: #5AC2DF;
+$max: 1150px;
+
+body {
+  color: $color_text;
+}
+
+#skip-to-content {
+  display: none;
+}
+
+#logo {
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 1em;
+}
+
+.main-content {
+  h1:first-child{
+    display: none;
+  }
+}
+
+.page-header {
+  background-color: $color_main;
+  background-image: none;
+  color: $color_text;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: $action_color;
+  line-height: 1.2;
+}
+
+.header-content {
+  margin: auto;
+  max-width: $max;
+}
+
+.project-name {
+  font-size: 2.8rem;
+  margin-bottom: 1.5rem;
+  margin-top: 1rem;
+  line-height: 1.2;
+}
+
+.project-tagline {
+  margin-bottom: 2rem;
+  line-height: 1.5;
+  opacity: 1;
+  font-size: 1.4rem;
+  max-width: $max;
+}
+
+.btn {
+  color: white;
+  background-color: $action_color;
+  border-color: $action_color;
+
+  &:hover {
+    color: $color_text;
+  }
+
+}
