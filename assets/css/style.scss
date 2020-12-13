@@ -16,9 +16,13 @@ body {
 }
 
 #logo {
-  width: 100%;
+  width: 75%;
   max-width: 400px;
   margin-bottom: 1em;
+
+  @media screen and (max-width: 64em) and (min-width: 42em) {
+    width: 100%;
+  }
 }
 
 .main-content {
