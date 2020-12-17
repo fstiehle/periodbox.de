@@ -34,7 +34,7 @@ url: "periodbox.de" # the base hostname & protocol for your site, e.g. http://ex
 show_downloads: true
 github:
   zip_url: http://periodbox.de/assets/flyer.pdf
-  tar_url:  http://periodbox.de/assets/flyer.zip
+  tar_url:  https://github.com/fstiehle/periodbox.de/raw/main/assets/flyer.zip
 
 # Build settings
 theme: jekyll-theme-cayman
