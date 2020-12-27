@@ -35,7 +35,7 @@ notre design que tu peux télécharger [[ICI]]({{ site.github.zip_url }}). Souvi
 propriétaire des toilettes s'il est d'accord avec l'installation de la
 boite.
 
-Avec ce projet, *nous voulons sensibiliser le public à « period poverty » et
-contribuer à faire tomber le tabou qui est associé avec la menstruation.* En
+Avec ce projet, **nous voulons sensibiliser le public à « period poverty » et
+contribuer à faire tomber le tabou qui est associé avec la menstruation.** En
 plus, le boite doit aider les personnes qui ont oublié leurs produits pour
 menstruation.
