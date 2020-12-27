@@ -17,3 +17,25 @@ Hilf uns, indem Du Die Periodenbox mit Menstruationsprodukten füllst, die Du ni
 
 Ziel unseres Projekts ist es, **das Bewusstsein für „period poverty“ zu stärken sowie die Menstruation als natürlichen Vorgang des menschlichen Körpers weiter zu enttabuisieren.** Ebenfalls sollen Menschen profitieren, die im benötigten Moment keine Menstruationsprodukte mit sich führen.
 
+# Prends ce dont tu as besoin et donne ce dont tu n’as pas besoin.
+
+**Nous sommes "Period Box"**, une initiative des étudiants qui offre des
+produits pour menstruation aux toilettes publiques. Nous positionnons des
+petites boites qui sont remplies avec des tampons et des serviettes
+hygiéniques près du lavabo ou de la porte d'entrée. Les boites permettent
+aux personnes qui ont leur règle à se servir des produits- et à reremplir
+les boites en se rendant aux toilettes la prochaine fois. C'est aussi
+possible de « faire un don « des produits. Sur les boites il se trouve un
+bref texte explicatif et un QR code lié avec ce site web où l'idée
+sous-jacente est expliquée.
+
+Tu peux nous aider en remplissant les boites avec des produits menstruation
+des que tu n'en as pas encore besoin - ou tu crées ta propre boite avec
+notre design que tu peux télécharger [[ICI]]({{ site.github.zip_url }}). Souviens-toi de demander au
+propriétaire des toilettes s'il est d'accord avec l'installation de la
+boite.
+
+Avec ce projet, *nous voulons sensibiliser le public à « period poverty » et
+contribuer à faire tomber le tabou qui est associé avec la menstruation.* En
+plus, le boite doit aider les personnes qui ont oublié leurs produits pour
+menstruation.
