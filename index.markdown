@@ -9,7 +9,7 @@ Help the community by setting up your own Period Box and filling it with some sp
 
 The aim of our project is to **destigmatize natural body functions like menstruation and overcome related inequalities**. In the process we want to increase the awareness of period poverty. Period Boxes help not only people who cannot afford hygiene products but also those who may have forgotten theirs. Let's tackle period poverty together!
 
-# Nimm, was zu brauchst, und gib, was du nicht brauchst.
+# Nimm, was du brauchst, und gib, was du nicht brauchst.
 
 **Wir sind „Period Box“**, eine studentische Initiative, die sich dafür einsetzt, auf öffentlichen Toiletten Menstruationsprodukte bereitzustellen. Dafür wählen wir unauffällige, kleine Boxen, die in der Nähe des Waschbeckens oder der Eingangstür platziert werden und Menschen mit Periode/menstruierende Menschen dazu einladen, bei Bedarf Produkte zu entnehmen- und wenn möglich beim nächsten Besuch der Toilette die Box mit mitgebrachten Produkten wieder aufzufüllen. Gerne sind auch kleine „Sachspenden“ in Form von Menstruationsprodukten gesehen. Auf den Boxen sind ein kurzer Erläuterungstext des Projektes sowie ein QR-Code platziert. Der QR-Code führt zu einer Website, auf der ausführlich und in mehreren Sprachen die Idee hinter den Boxen erklärt wird.
 
