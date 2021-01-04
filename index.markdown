@@ -5,9 +5,27 @@ layout: default
 
 **We are "Period Box"** - we are a student initiative setting up period supply boxes at different locations such as public restrooms to close the period poverty gap. We install them in visible and accessible locations. Menstruating people are encouraged to take any period products they need and in case they have products to spare, are welcome to add them to the box for other people in need. On the box you will find a short description and a link (incl. QR code) to this website.
 
-Help the community by setting up your own Period Box and filling it with some spare products. Feel free to print out and attach these [[link here]]({{ site.github.zip_url }}) flyers to spread the word. Just take your Period Box to the nearest frequently visited public restroom or other space you can imagine fits the purpose (ask the toilet owner first). 
+Help the community by setting up your own Period Box and filling it with some spare products.
+
+<div style="display: flex;" class="container">
+  <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b9.jpg" alt="A placed Periodbox">
+  <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b2.jpg" alt="A placed Periodbox">
+  <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b4.jpg" alt="A placed Periodbox">
+  <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b3.jpg" alt="A placed Periodbox"> 
+  <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b8.jpg" alt="A placed Periodbox">
+  <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b6.jpg" alt="A placed Periodbox">     
+</div>
+*Some of our periodboxes in action.*
+
+Feel free to print out and attach these [[link here]]({{ site.github.zip_url }}) flyers to spread the word. Just take your Period Box to the nearest frequently visited public restroom or other space you can imagine fits the purpose (ask the toilet owner first). 
 
 The aim of our project is to **destigmatize natural body functions like menstruation and overcome related inequalities**. In the process we want to increase the awareness of period poverty. Period Boxes help not only people who cannot afford hygiene products but also those who may have forgotten theirs. Let's tackle period poverty together!
+
+## Links
+
+- Inspiration: [‘Stand by Her’: In China, a Movement Hands Out Free Sanitary Pads in Schools.](https://www.nytimes.com/2020/11/09/world/asia/china-period-shame-universities.html)
+- Donate to [Frauenzentren in Berlin.](https://www.big-berlin.info/node/153)
+
 
 # Nimm, was du brauchst, und gib, was du nicht brauchst.
 
@@ -16,6 +34,12 @@ The aim of our project is to **destigmatize natural body functions like menstrua
 Hilf uns, indem Du Die Periodenbox mit Menstruationsprodukten füllst, die Du nicht mehr brauchst - oder Du kannst auch gerne diesen [[link hier]]({{ site.github.zip_url }}) Flyer auf Deine eigene Box machen und diese selber auf einer Toilette aufstellen (Davor müsste aber der Besitzer der Toilette gefragt werden!)
 
 Ziel unseres Projekts ist es, **das Bewusstsein für „period poverty“ zu stärken sowie die Menstruation als natürlichen Vorgang des menschlichen Körpers weiter zu enttabuisieren.** Ebenfalls sollen Menschen profitieren, die im benötigten Moment keine Menstruationsprodukte mit sich führen.
+
+## Links
+
+- Inspiration: [Social Period e.V. möchte obdach- und wohnungslosen Frauen den Zugang zu Menstruationsprodukten vereinfachen.](https://www.socialperiod.org)
+- [Obdachlosigkeit ist männlich. Heißt es. Für etwa 2.500 Frauen in Berlin ist sie Realität. Nicht alle tauchen in der Statistik auf.](http://obdachlosinberlin.de/weiblich/)
+- [Hochschule Merseburg stellt als erste Hochschule in Deutschland kostenlose Menstruationsprodukte zur Verfügung.](https://www.merseburg.de/de/suchergebnisseite/hochschule-merseburg-stellt-als-erste-hochschule-in-deutschland-kostenlose-menstruationsprodukte-zur-verfuegung.html)
 
 # Prends ce dont tu as besoin et donne ce dont tu n’as pas besoin.
 
