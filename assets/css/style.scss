@@ -73,11 +73,18 @@ body {
 
 .item {
   width: 50%;
-  height: intrinsic;
+  height: 100%;
+  display: inline-block;
+
+  img {
+    height: auto;
+    width: 100%;
+  }
 }
 
 .container {
+  background-color: black;
+  margin: 20px auto;
   flex-wrap: wrap;
   flex-direction: row;
-  align-items: stretch;
 }
