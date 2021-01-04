@@ -11,9 +11,9 @@ Help the community by setting up your own Period Box and filling it with some sp
   <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b2.jpg" alt="A placed Periodbox">
   <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b9.jpg" alt="A placed Periodbox">
   <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b4.jpg" alt="A placed Periodbox">
-  <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b3.jpg" alt="A placed Periodbox"> 
+  <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b6.jpg" alt="A placed Periodbox"> 
   <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b8.jpg" alt="A placed Periodbox">
-  <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b6.jpg" alt="A placed Periodbox">     
+  <img class="item" src="https://raw.githubusercontent.com/fstiehle/periodbox.de/gh-pages/assets/img/b3.jpg" alt="A placed Periodbox">     
 </div>
 *Some of our periodboxes in action.*
 
