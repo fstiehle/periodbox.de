@@ -73,9 +73,11 @@ body {
 
 .item {
   width: 50%;
+  height: intrinsic;
 }
 
 .container {
-  overflow: auto;
   flex-wrap: wrap;
+  flex-direction: row;
+  align-items: stretch;
 }
