@@ -70,3 +70,12 @@ body {
   }
 
 }
+
+.item {
+  width: 50%;
+}
+
+.container {
+  overflow: auto;
+  flex-wrap: wrap;
+}
