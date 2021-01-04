@@ -21,7 +21,7 @@ Feel free to print out and attach these [[link here]]({{ site.github.zip_url }})
 
 The aim of our project is to **destigmatize natural body functions like menstruation and overcome related inequalities**. In the process we want to increase the awareness of period poverty. Period Boxes help not only people who cannot afford hygiene products but also those who may have forgotten theirs. Let's tackle period poverty together!
 
-## Links
+### Links
 
 - Inspiration: [‘Stand by Her’: In China, a Movement Hands Out Free Sanitary Pads in Schools.](https://www.nytimes.com/2020/11/09/world/asia/china-period-shame-universities.html)
 - Donate to [Frauenzentren in Berlin.](https://www.big-berlin.info/node/153)
@@ -35,7 +35,7 @@ Hilf uns, indem Du Die Periodenbox mit Menstruationsprodukten füllst, die Du ni
 
 Ziel unseres Projekts ist es, **das Bewusstsein für „period poverty“ zu stärken sowie die Menstruation als natürlichen Vorgang des menschlichen Körpers weiter zu enttabuisieren.** Ebenfalls sollen Menschen profitieren, die im benötigten Moment keine Menstruationsprodukte mit sich führen.
 
-## Links
+### Links
 
 - Inspiration: [Social Period e.V. möchte obdach- und wohnungslosen Frauen den Zugang zu Menstruationsprodukten vereinfachen.](https://www.socialperiod.org)
 - [Obdachlosigkeit ist männlich. Heißt es. Für etwa 2.500 Frauen in Berlin ist sie Realität. Nicht alle tauchen in der Statistik auf.](http://obdachlosinberlin.de/weiblich/)
